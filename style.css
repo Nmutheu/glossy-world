@@ -18,17 +18,17 @@ body {
     width: 200px;
     margin: 10px;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid purple;
 }
 
 .cart {
     flex: 1;
-    border: 1px solid #ccc;
+    border: 1px solid purple;
     padding: 10px;
 }
 
 header {
-    background-color: lightblue;
+    background-color: lightpink;
     padding: 20px 0;
     text-align: center;
 }
