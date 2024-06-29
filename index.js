@@ -1,3 +1,4 @@
+
 let cart = [];
 
 function addToCart(product) {
