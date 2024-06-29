@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: lightskyblue;
+    background-color: #ffc2d1;
     opacity: 0.9;
 }
 
@@ -21,25 +21,25 @@ body {
     width: 300px;
     margin: 10px;
     padding: 5px;
-    border: 1px solid purple;
+    border: 1px solid #ff8fab;
 }
 
 .cart {
     flex: 1;
-    border: 1px solid lightcoral;
+    border: 1px solid #ffc2d1;
     padding: 10px;
 }
 
 header {
-    background-color: lightpink;
+    background-color: #fb6f92;
     padding: 20px 0;
     text-align: center;
-    text-emphasis-color: deeppink;
+    text-emphasis-color: #ffe5ec;
 }
 
 img{
     border-radius: 8px;
-    border: 1px solid purple;
+    border: 1px solid #ffe5ec;
     padding: 5px;
     width: 200px;
     height: 200px;
@@ -81,3 +81,14 @@ nav ul li a:hover {
 }
 
 
+
+
+
+
+#movingImage {
+    position: center;
+    top: 50;
+    left: 0;
+    height:550px;
+    width: 750px;
+}

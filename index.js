@@ -24,3 +24,7 @@ function checkout() {
         alert('Your cart is empty. Please add some items before checking out.');
     }
 }
+
+
+
+
